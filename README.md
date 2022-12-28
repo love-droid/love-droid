@@ -1,7 +1,7 @@
 [![MasterHead](https://64.media.tumblr.com/c5543874b9cbe98da1d20945a45e989b/tumblr_o5a5r9Z9O71tvppquo1_r1_1280.gifv)
 <h1 align="center">Hi 👋, I'm Love</h1>
 <h3 align="center">A passionate Blockchain developer from India</h3>
-<img align ="right" width="400" src="[https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif]">
+<img align ="right" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=love-droid&label=Profile%20views&color=0e75b6&style=flat" alt="love-droid" /> </p>
 
