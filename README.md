@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=love-droid&label=Profile%20views&color=0e75b6&style=flat" alt="love-droid" /> </p>
 
-- 🌱 I’m currently learning to build scalable backend systems through **GoLang**
+- 🌱 I’m currently learning to build **"Microservices with Go"**
 
 - 📫 How to reach me **lovevig749@gmail.com**
 
