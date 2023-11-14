@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=love-droid&label=Profile%20views&color=0e75b6&style=flat" alt="love-droid" /> </p>
 
-- 🌱 I’m currently learning **Algorithms and Data Structures**
+- 🌱 I’m currently learning to build scalable backend systems through **GoLang**
 
-- 📫 How to reach me **love.vig12@gmail.com**
+- 📫 How to reach me **lovevig749@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
